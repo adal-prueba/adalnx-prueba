@@ -8,4 +8,6 @@ Esta linea la añade adslpruebas...
 
 
 estos cambios SON DE ADAL-NX
->>>>>>> Stashed changes
+
+
+---CAMBIO DEADALNX TANTO AQUÍ COMO EN EL OTRO ARCHIVO
