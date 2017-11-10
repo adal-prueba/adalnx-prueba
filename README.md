@@ -5,3 +5,7 @@ Para pruebas en Mac
 Esto lo añade adal-pruebas
 Esto li añade adal pruebas again
 Esta linea la añade adslpruebas...
+
+
+estos cambios SON DE ADAL-NX
+>>>>>>> Stashed changes
